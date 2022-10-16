@@ -20,11 +20,12 @@ body{
 }
 .bottom li {
     float: left;
-    border: 2px solid #333;
+    border: 2px solid #343;
+    background-color: #333;
 }
 .bottom li a {
     text-decoration: none;
-    color: #111;
+    color: pink;
     padding: 10px;
     display: block;
     font-size: 20px;
@@ -78,7 +79,7 @@ h1{
     overflow: auto;
     font-size: 20px;
     font-weight: 700;
-    color: #111;
+    color: #fff;
 }
 
 
